@@ -1,5 +1,9 @@
 @import url(https://raw.githack.com/hellboundthegod/dark-discord/master/src/source.css);
 
+.peopleColumn-29fq28.da-peopleColumn {
+    background-color: var(--background-primary);
+}
+
 .role-2irmRk {
    position: relative;
    overflow: hidden;
